@@ -11,9 +11,7 @@ Frontend Developer
 * 🧠  I'm learning Next.js Vue.js Angular.js
 * ⚡  Big things come after small steps
 
-<a href="https://www.twitter.com/_khayrullayev_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_khayrullayev_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a>
+
 
 ### Skills
 
