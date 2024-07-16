@@ -7,7 +7,7 @@ Frontend Developer
 
 * 🌍  I'm based in Samarkand
 * 🖥️  See my portfolio at [My Portfolio Website](http://khayrullayev.vercel.app)
-* ✉️  You can contact me at [alikhaydarov010@gmail.com](mailto:alikhaydarov010@gmail.com)
+* ✉️  You can contact me at [alikhaydarov01@gmail.com](mailto:alikhaydarov01@gmail.com)
 * 🧠  I'm learning Next.js Vue.js Angular.js
 * ⚡  Big things come after small steps
 
