@@ -16,7 +16,7 @@ src="https://img.shields.io/twitter/follow/tolibovich_17?logo=twitter&style=for-
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,redux,git,github,materialui,tailwind,firebase,mongodb,nodejs,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,redux,git,github,materialui,tailwind,firebase,mongodb,nodejs" />
   </a>
 </p>
 
